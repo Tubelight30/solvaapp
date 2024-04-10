@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "902801817298",
+    "project_id": "hostel-admin-3d53c",
+    "storage_bucket": "hostel-admin-3d53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902801817298:android:aecc0dc5ddaba472bdb70b",
+        "android_client_info": {
+          "package_name": "com.pandas.solveathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902801817298-1ua9dgv4rcigbscg4b18b84gakf5c95o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandas.solveathon",
+            "certificate_hash": "a7fbfd696da1f04a057b8207cfefba7a89baf1cb"
+          }
+        },
+        {
+          "client_id": "902801817298-imo7h4phhv5pu2lqi92d38va27v425ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandas.solveathon",
+            "certificate_hash": "a18d5631a2c08b7d98f8032a72207e015f719fb8"
+          }
+        },
+        {
+          "client_id": "902801817298-o6hnrt088e9kktttgtsufuis3slnu3f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandas.solveathon",
+            "certificate_hash": "c614ecf19b5e1895fb519bcef4d970c58422cf6a"
+          }
+        },
+        {
+          "client_id": "902801817298-vqvcigheheffdgnsm9cbbniog8jh0drr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8WxU46wEGoTSQtB5h4MydTIGYm4-C8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902801817298-vqvcigheheffdgnsm9cbbniog8jh0drr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
